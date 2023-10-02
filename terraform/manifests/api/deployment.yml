@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: api
+  namespace: app-go
+  labels:
+    api: api-go
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      api: api-go
+  template:
+    metadata:
+      labels:
+        api: api-go
+    spec:
+      containers:
+      - name: api
+        image: matesousa/go-k8s-metrics:latest
+        ports:
+        - containerPort: 8080
