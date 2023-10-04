@@ -1,4 +1,4 @@
-module github.com/k8s-metrics/server/auth
+module github.com/k8s-metrics/api/auth
 
 go 1.20
 

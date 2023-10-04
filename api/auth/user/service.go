@@ -7,7 +7,7 @@ import (
 
 	"go.opentelemetry.io/otel/codes"
 
-	"github.com/MateSousa/k8s-metrics/internal/telemetry"
+	"github.com/MateSousa/k8s-metrics/api/internal/telemetry"
 )
 
 type UseCase interface {
