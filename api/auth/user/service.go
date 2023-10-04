@@ -5,8 +5,9 @@ import (
 	"crypto/sha1"
 	"fmt"
 
-	"github.com/MateSousa/api/internal/telemetry"
 	"go.opentelemetry.io/otel/codes"
+
+	"github.com/MateSousa/k8s-metrics/internal/telemetry"
 )
 
 type UseCase interface {
