@@ -5,6 +5,7 @@ import (
 	"crypto/sha1"
 	"fmt"
 
+	"github.com/MateSousa/api/internal/telemetry"
 	"go.opentelemetry.io/otel/codes"
 )
 
