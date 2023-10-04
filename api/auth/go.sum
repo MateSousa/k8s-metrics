@@ -1,5 +1,5 @@
-github.com/MateSousa/k8s-metrics/api v0.0.0-20231004024210-91c020bd1ad0 h1:99NVWQyIqIxgnHuyRPfIIFHC00kBrZZi4NmyWg6SzWY=
-github.com/MateSousa/k8s-metrics/api v0.0.0-20231004024210-91c020bd1ad0/go.mod h1:vRD8qR2ctX3/c2MxRsbcN0BhZorALQ/m5a+v37peAn8=
+github.com/MateSousa/k8s-metrics/api v0.0.0-20231004025520-e4e09e17d306 h1:EBxlPKnkBa+ZVX8MWSwe5EDWWSJzcBnK9QpT5Ua6j5E=
+github.com/MateSousa/k8s-metrics/api v0.0.0-20231004025520-e4e09e17d306/go.mod h1:vRD8qR2ctX3/c2MxRsbcN0BhZorALQ/m5a+v37peAn8=
 github.com/cenkalti/backoff/v4 v4.2.1 h1:y4OZtCnogmCPw98Zjyt5a6+QwPLGkiQsYW5oUqylYbM=
 github.com/cenkalti/backoff/v4 v4.2.1/go.mod h1:Y3VNntkOUPxTVeUxJ/G5vcM//AlwfmyYozVcomhLiZE=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=

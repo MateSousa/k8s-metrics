@@ -1,9 +1,9 @@
-module github.com/k8s-metrics/api/auth
+module github.com/MateSousa/k8s-metrics/api/auth
 
 go 1.20
 
 require (
-	github.com/MateSousa/k8s-metrics/api v0.0.0-20231004024210-91c020bd1ad0
+	github.com/MateSousa/k8s-metrics/api v0.0.0-20231004025520-e4e09e17d306
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/google/uuid v1.3.1
 	go.opentelemetry.io/otel v1.19.0
