@@ -5,7 +5,7 @@ package mocks
 import (
 	context "context"
 
-	telemetry "github.com/MateSousa/api/internal/telemetry"
+	telemetry "github.com/MateSousa/k8s-metrics/api/internal/telemetry"
 	mock "github.com/stretchr/testify/mock"
 
 	trace "go.opentelemetry.io/otel/trace"
