@@ -1,4 +1,4 @@
-module github.com/MateSousa/k8s-metrics
+module github.com/MateSousa/k8s-metrics/api
 
 go 1.20
 
